@@ -1,0 +1,900 @@
+{
+    "FRUITS AND VEGETABLES": [
+        {
+            "CATEGORY": "Fruits and Vegetables",
+            "SUB-category": "cuts and sprouts",
+            "ITEM-NAME": "kobbari bondam",
+            "BRAND": "Fresho",
+            "UNIT(PIECES)": 1,
+            "PIECES": 1,
+            "COST": 40,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 35,
+            "COST CURRENCY": "RS"
+        },
+        {
+            "ITEM-NAME": "Sweet corn-pellets",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "COST": 32,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 25,
+            "COST CURRENCY": "RS"
+        },
+        {
+            "ITEM-NAME": "sweet corn-peeled",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "COST": 175,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 139,
+            "COST CURRENCY": "RS"
+        },
+        {
+            "ITEM-NAME": "sweetcorn-mokkajonna",
+            "BRAND": "Fresho",
+            "Weight Qnty": 250,
+            "weight unit": "gms",
+            "COST": 32,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 25,
+            "COST CURRENCY": "RS"
+        },
+        {
+            "ITEM-NAME": "sprouts-mixed",
+            "BRAND": "Fresho",
+            "Weight Qnty": 150,
+            "weight unit": "gms",
+            "COST": 40,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 32,
+            "COST CURRENCY": "RS"
+        },
+        {
+            "ITEM-NAME": "ash-groud-cut",
+            "BRAND": "Fresho",
+            "Weight Qnty": 500,
+            "weight unit": "gms",
+            "COST": 32,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 25,
+            "COST CURRENCY": "RS"
+        },
+        {
+            "ITEM-NAME": "sugarcane-diced",
+            "BRAND": "Fresho",
+            "Weight Qnty": 250,
+            "weight unit": "gms",
+            "COST": 40,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 25,
+            "COST CURRENCY": "RS"
+        },
+        {
+            "ITEM-NAME": "sprouts-green moong",
+            "BRAND": "Fresho",
+            "Weight Qnty": 150,
+            "weight unit": "gms",
+            "COST": 32,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 32,
+            "COST CURRENCY": "RS"
+        },
+        {
+            "SUB-category": "Beans ,Bringals& okra",
+            "ITEM-NAME": "Ladies finger/ bendakaya",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "COST": 53,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 35,
+            "COST CURRENCY": "RS"
+        },
+        {
+            "ITEM-NAME": "Bringal-purple",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "COST": 30,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 24
+        },
+        {
+            "ITEM-NAME": "Beans-french,round",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "COST": 70,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 55
+        },
+        {
+            "ITEM-NAME": "Beans-broad/chikkudukaya",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "COST": 98,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 70
+        },
+        {
+            "ITEM-NAME": "Beans-cluster/goru chikkudukaya",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "COST": 50,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 40
+        },
+        {
+            "ITEM-NAME": "Bringal-nagpur/vankaya",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "COST": 38,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 30
+        },
+        {
+            "ITEM-NAME": "Green peas",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "COST": 112,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 88
+        },
+        {
+            "SUB-category": "cabbage&cauliflower",
+            "ITEM-NAME": "cauliflower",
+            "BRAND": "Fresho",
+            "Weight Qnty": "400-600",
+            "weight unit": "gms",
+            "PIECES": 1,
+            "COST": 32,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": "NO DISCOUNT"
+        },
+        {
+            "ITEM-NAME": "cabbage",
+            "BRAND": "Fresho",
+            "Weight Qnty": "500-800",
+            "weight unit": "gms",
+            "PIECES": 1,
+            "COST": 18,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": "NO DISCOUNT"
+        },
+        {
+            "ITEM-NAME": "cabbage-red",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 50,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": "NO DISCOUNT"
+        },
+        {
+            "ITEM-NAME": "chinese-cabbage",
+            "BRAND": "Fresho",
+            "Weight Qnty": 500,
+            "weight unit": "gms",
+            "PIECES": 1,
+            "COST": 100,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": "NO DISCOUNT"
+        },
+        {
+            "SUB-category": "cucumber & capsicum",
+            "ITEM-NAME": "cocinia/dondakaya",
+            "BRAND": "Fresho",
+            "Weight Qnty": 500,
+            "weight unit": "gms",
+            "PIECES": 1,
+            "COST": 15,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": "NO DISCOUNT"
+        },
+        {
+            "ITEM-NAME": "calsicum-green/bengaluru mirchi",
+            "BRAND": "Fresho",
+            "Weight Qnty": 500,
+            "weight unit": "gms",
+            "PIECES": 1,
+            "COST": 32,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": "NO DISCOUNT"
+        },
+        {
+            "ITEM-NAME": "cucumber/kheera",
+            "BRAND": "Fresho",
+            "Weight Qnty": 500,
+            "weight unit": "gms",
+            "PIECES": 1,
+            "COST": 17,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": "NO DISCOUNT"
+        },
+        {
+            "ITEM-NAME": "carrot,beetroot,cucumber value pack",
+            "BRAND": "Fresho",
+            "Weight Qnty": "combo 3",
+            "PIECES": 1,
+            "COST": 66,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": "NO DISCOUNT"
+        },
+        {
+            "ITEM-NAME": "cucumber-manglore/dosakaya",
+            "BRAND": "Fresho",
+            "Weight Qnty": 500,
+            "weight unit": "gms",
+            "PIECES": 1,
+            "COST": 23,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": "NO DISCOUNT"
+        },
+        {
+            "ITEM-NAME": "cucmber-english/kheera",
+            "BRAND": "Fresho",
+            "Weight Qnty": 500,
+            "weight unit": "gms",
+            "PIECES": 1,
+            "COST": 23,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": "NO DISCOUNT"
+        },
+        {
+            "ITEM-NAME": "capsicum-Red/banglore/shimla mirchi",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 300,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": "NO DISCOUNT"
+        },
+        {
+            "ITEM-NAME": "capsicum-yellow/shimla mirchi",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 300,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": "NO DISCOUNT"
+        },
+        {
+            "SUB-category": "Gourd,pumpikn &drumstick",
+            "ITEM-NAME": "Bitter gourd/kakarkaya",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 50,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": "NO DISCOUNT"
+        },
+        {
+            "ITEM-NAME": "ridge gourd/beerakaya",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 57,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": "NO DISCOUNT"
+        },
+        {
+            "ITEM-NAME": "Drumstick/mulakaya",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 150,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": "NO DISCOUNT"
+        },
+        {
+            "ITEM-NAME": "Bottle gourd/anapakaya/sorukaya",
+            "BRAND": "Fresho",
+            "UNIT(PIECES)": 1,
+            "PIECES": 1,
+            "COST": 18,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": "NO DISCOUNT"
+        },
+        {
+            "ITEM-NAME": "snake gourd",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 50,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": "NO DISCOUNT"
+        },
+        {
+            "ITEM-NAME": "pumkin-Disco/gummadikaya",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 63,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": "NO DISCOUNT"
+        },
+        {
+            "ITEM-NAME": "Ash gourd",
+            "BRAND": "Fresho",
+            "Weight Qnty": 500,
+            "weight unit": "gms",
+            "PIECES": 1,
+            "COST": 32,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": "NO DISCOUNT"
+        },
+        {
+            "BRAND": " "
+        },
+        {
+            "SUB-category": "LEAFY VEGETABLES",
+            "ITEM-NAME": "Palak/palakura",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 100,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 80
+        },
+        {
+            "ITEM-NAME": "mint leaves/pudina Aaku",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 200,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 160
+        },
+        {
+            "ITEM-NAME": "ment leaves/menti kura",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 225,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 180
+        },
+        {
+            "ITEM-NAME": "Amarnathus/Thotkura",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 75,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 60
+        },
+        {
+            "ITEM-NAME": "gongura leaves/puntikura",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 75,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 60
+        },
+        {
+            "ITEM-NAME": "spring onion/vulipuraku/vuli Aaku",
+            "BRAND": "Fresho",
+            "Weight Qnty": 100,
+            "weight unit": "gms",
+            "PIECES": 1,
+            "COST": 32,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 25
+        },
+        {
+            "ITEM-NAME": "Lettuce-Iceberg",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 325,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 260
+        },
+        {
+            "ITEM-NAME": "chukkakura",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 75,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 60
+        },
+        {
+            "ITEM-NAME": "basal leaf/bachalakura",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 100,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 80
+        },
+        {
+            "ITEM-NAME": "spring onion/ulligadda/ullipaya/payaz",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 312,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 250
+        },
+        {
+            "ITEM-NAME": "Leeks/ulliporaku",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 300,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 240
+        },
+        {
+            "BRAND": " "
+        },
+        {
+            "SUB-category": "Potato,onion& tomato",
+            "ITEM-NAME": "onion/ulligada/ullipaya",
+            "BRAND": "Fresho",
+            "Weight Qnty": 5,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 150,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 120
+        },
+        {
+            "ITEM-NAME": "tomato/local",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 15,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 12
+        },
+        {
+            "ITEM-NAME": "potato/alugadda/bangadumpa/aloo",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 42,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 33
+        },
+        {
+            "ITEM-NAME": "sweet potato/chilkuda dumpa",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 63,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 50
+        },
+        {
+            "ITEM-NAME": "toamto-hybrid/banglore tomato",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 40,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 32
+        },
+        {
+            "ITEM-NAME": "onion-sambhar ulligada/",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 100,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 80
+        },
+        {
+            "ITEM-NAME": "baby potato-alugadda/bangadumpa",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 63,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 50
+        },
+        {
+            "BRAND": " "
+        },
+        {
+            "SUB-category": "Root vegetables",
+            "ITEM-NAME": "carrot-local",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 55,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 44
+        },
+        {
+            "ITEM-NAME": "beetroot",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 30,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 24
+        },
+        {
+            "ITEM-NAME": "carrot,beetroot &cucumber",
+            "BRAND": "Fresho",
+            "Weight Qnty": 500,
+            "weight unit": "gms",
+            "PIECES": 1,
+            "COST": 65,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 52
+        },
+        {
+            "ITEM-NAME": "Radish-white/mulangi/mooli",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 85,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 68
+        },
+        {
+            "ITEM-NAME": "Yam-Elephant Foot/Kandagadda",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 100,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 80
+        },
+        {
+            "ITEM-NAME": "colacasa/chemagadda/chamdhumpa",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 50,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 40
+        },
+        {
+            "BRAND": " "
+        },
+        {
+            "SUB-category": "speciality",
+            "ITEM-NAME": "mushrooms/puttagodugulu",
+            "BRAND": "Fresho",
+            "Weight Qnty": 220,
+            "weight unit": "gms",
+            "PIECES": 1,
+            "COST": 63,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 50
+        },
+        {
+            "ITEM-NAME": "sweet corn/indian bhutta/mokkajhunna",
+            "BRAND": "Fresho",
+            "UNIT(PIECES)": 1,
+            "PIECES": 1,
+            "COST": 16,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 13
+        },
+        {
+            "ITEM-NAME": "ground nuts/versusanaga",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 125,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 100
+        },
+        {
+            "ITEM-NAME": "Brocoli/green cauliflower",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 312,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 250
+        },
+        {
+            "ITEM-NAME": "Amla/usirikaya",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 50,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 128
+        },
+        {
+            "ITEM-NAME": "Baby corn-unpeeled",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 160,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 40
+        },
+        {
+            "ITEM-NAME": "sprouts-mixed",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 40,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 32
+        },
+        {
+            "ITEM-NAME": "Zucchini-green",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 138,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 100
+        },
+        {
+            "ITEM-NAME": "sprouts-green moong",
+            "BRAND": "Fresho",
+            "Weight Qnty": 150,
+            "weight unit": "gms",
+            "PIECES": 1,
+            "COST": 40,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 32
+        },
+        {
+            "ITEM-NAME": "zucchini-yellow",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 275,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 221
+        },
+        {
+            "ITEM-NAME": "leeks-ulli poraka",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 300,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 240
+        },
+        {
+            "ITEM-NAME": "greean peas",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 113,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 90
+        },
+        {
+            "BRAND": " "
+        },
+        {
+            "CATEGORY": "HERBS&SEASONING",
+            "SUB-category": "Indian&Exotic herbs",
+            "ITEM-NAME": "coriander leaves/kothimera",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 100,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 80
+        },
+        {
+            "ITEM-NAME": "curry leaves/karvepaku",
+            "BRAND": "Fresho",
+            "UNIT(PIECES)": " ",
+            "Weight Qnty": 150,
+            "weight unit": "gms",
+            "PIECES": 1,
+            "COST": 13,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 10
+        },
+        {
+            "ITEM-NAME": "celery/vamaaku/saraswataku",
+            "BRAND": "Fresho",
+            "Weight Qnty": 500,
+            "weight unit": "gms",
+            "PIECES": 1,
+            "COST": 150,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 120
+        },
+        {
+            "ITEM-NAME": "betelleaf/tamalpaku/paan",
+            "BRAND": "Fresho",
+            "UNIT(PIECES)": 10,
+            "COST": 13,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 10
+        },
+        {
+            "Cost Currency": "Rs"
+        },
+        {
+            "SUB-category": "Lemon,Ginger& Garlic",
+            "ITEM-NAME": "garlic/velluli",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 250,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 200
+        },
+        {
+            "ITEM-NAME": "allam/Ginger",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 163,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 130
+        },
+        {
+            "ITEM-NAME": "chilli-green short/pachi mirapkaya",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 40,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 32
+        },
+        {
+            "ITEM-NAME": "lemon",
+            "BRAND": "Fresho",
+            "UNIT(PIECES)": 6,
+            "PIECES": 1,
+            "COST": 15,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 32
+        },
+        {
+            "ITEM-NAME": "chilli- green lon/pachi mirapakay",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 50,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 40
+        },
+        {
+            "ITEM-NAME": "chilli-,bajji/mild",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 125,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 101
+        },
+        {
+            "ITEM-NAME": "chilli-red/erra pachi mirapakaya",
+            "BRAND": "Fresho",
+            "Weight Qnty": 1,
+            "weight unit": "kg",
+            "PIECES": 1,
+            "COST": 80,
+            "Cost Currency": "Rs",
+            "DISCOUNT %": 20,
+            "DISCOUNT COST": 64
+        },
+        {
+            "CATEGORY": "EXOTIC FRUITS& VEGATABLES",
+            "SUB-category": "Exotic fruits"
+        }
+    ]
+}
